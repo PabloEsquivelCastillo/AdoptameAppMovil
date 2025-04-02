@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Adoptame-App",
-    "slug": "Adoptame-App",
+    "name": "pet-adoption-app",
+    "slug": "pet-adoption-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
